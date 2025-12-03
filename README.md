@@ -74,10 +74,7 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahesss404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=mahesss404&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
@@ -85,12 +82,6 @@
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=1e1e1e"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahesss404&radius=16&theme=github-dark&area=false&order=5&title_color=6cc644&point=6cc644&color=6cc644&line=6cc644&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
